@@ -9,7 +9,8 @@
 
 int main(){
 	
-   int lado1, lado2, hipotenusa, num; 
+   int lado1, lado2, hipotenusa, num;
+   printf("Estou testando o GIT");
    printf("Digite o número máximo até onde procurar triplas: ");
    scanf("%d", &num);
    printf("a\tb\tc\n=========================\n");
