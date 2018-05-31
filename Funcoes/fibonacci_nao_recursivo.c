@@ -10,7 +10,7 @@ main(){
 	   int i;
 	   for (i = 1;i<=num;i++)
 	   	   printf("Fibonacci(%3d) - %G\n", i, fibonacci(i));
-       system("read");
+       getchar();
 }
 double fibonacci(long n)	   //fibonacci nao-recursiva
 {

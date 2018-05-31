@@ -10,7 +10,8 @@ int main(){
     media = (nota1 + nota2)/2;
    if(media>=7){   //tomada de decisão
         printf("Voce foi APROVADO com media %.2f\n\n", media);
-   }else{
+   }
+   else{
        if(media>=4.0){
            quanto_falta = 10.0-media;
            printf("Voce faz final por %.2f\n\n", quanto_falta);

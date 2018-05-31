@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-/*  Função: Fatorial nao recursivo
+/*  Fun??o: Fatorial nao recursivo
     Autor: Edkallenn -     Data:05/09/2013
-    Observações:  */
+    Observacoes:  */
 main(){
     int cont, num;
     double fat;

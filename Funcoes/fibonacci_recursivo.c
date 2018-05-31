@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-float fibonacci(int);
+float fibonacci(int); //protótipo
 
 int main(){
 	   int numero, i;
