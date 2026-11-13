@@ -1,0 +1,5 @@
+theme: jekyll-theme-tactile
+title: "📚 Estruturas de Dados (2018) — Unipê"
+description: "Programas, exercícios práticos e notas de aula de Estruturas de Dados do ano letivo de 2018."
+kramdown:
+  parse_block_html: true
